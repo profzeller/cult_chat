@@ -24,4 +24,4 @@ pip install playsound
 ```
 
 ## Complied version
-You can also use cult_chat.exe to run a pre-compiled version if you do not have Python installed.
+You can also use __cult_chat.exe__ to run a pre-compiled version if you do not have Python installed.
